@@ -6,7 +6,7 @@
 ### Team Name: codeStorm
 
 ### Team Members
-- Team Lead: Goutham V E - NSS College of Engineering, Palakkad
+- Member 1 : Goutham V - NSS College of Engineering, Palakkad
 - Member 2: Rajath Raj K T - NSS College of Engineering, Palakkad
 
 ### Project Description
@@ -85,7 +85,7 @@ For Hardware:
 [Live Demo](https://obfuscate-peach.vercel.app/) - Try it yourself in the browser.
 
 ## Team Contributions
-- **Rajath Raj K T:** Led the project, architected the backend with Node.js and Genkit, integrated the Gemini AI model for text generation and TTS, and managed deployment on Google Cloud.
+- **Rajath Raj K T:** Led the project, architected the backend with Node.js and Genkit, integrated the Gemini AI model for text generation and TTS, and managed deployment.
 - **Goutham V E:** Developed the UI/UX with Next.js and Tailwind CSS, implemented the nose-growing animation, and managed frontend state with TypeScript.
 
 ---
