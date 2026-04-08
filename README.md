@@ -85,8 +85,8 @@ For Hardware:
 [Live Demo](https://obfuscate-peach.vercel.app/) - Try it yourself in the browser.
 
 ## Team Contributions
-- **Goutham V E:** Led the project, architected the backend with Node.js and Genkit, integrated the Gemini AI model for text generation and TTS, and managed deployment on Google Cloud.
-- **Rajath Raj K T:** Developed the UI/UX with Next.js and Tailwind CSS, implemented the nose-growing animation, and managed frontend state with TypeScript.
+- **Rajath Raj K T:** Led the project, architected the backend with Node.js and Genkit, integrated the Gemini AI model for text generation and TTS, and managed deployment on Google Cloud.
+- **Goutham V E:** Developed the UI/UX with Next.js and Tailwind CSS, implemented the nose-growing animation, and managed frontend state with TypeScript.
 
 ---
 Made with ❤ at TinkerHub Useless Projects
